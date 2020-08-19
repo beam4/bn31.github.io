@@ -1,6 +1,6 @@
 ---
-title: Low Cost Digital Solution for Business
-subtitle: Based On Cloud, Docker and Open Source Applications
+title: 數字化教會服侍中的思考
+subtitle: 試圖為遇到的問題找到解決方案。因為確信，一定有相對簡單易行而且不貴的方案存在。思考不是提供教科書似的答案，因為只有真正的原因背後才有答案，而神正是那源頭。
 layout: page
 hero_image: "/img/indeximg8.jpg"
 hero_height: is-large
