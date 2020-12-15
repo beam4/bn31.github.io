@@ -1,4 +1,3 @@
-
 ---
 title: Page with menubar
 subtitle: Demo page with a menubar
