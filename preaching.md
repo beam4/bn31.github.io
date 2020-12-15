@@ -1,4 +1,12 @@
 
+---
+title: Page with menubar
+subtitle: Demo page with a menubar
+layout: page
+show_sidebar: false
+menubar: preaching
+---
+### 教会用网络
 
 提到教会用网络，首先想到文宣，文宣的意思是要在搜索时，结果排在前面，最好是头一页，最好是排在别的教会前面。这实际是SEO，SEO (Search Engine Optimism)搜索引擎优化，有专门做这种生意的公司，你看到热门搜索结果排名靠前的结果可能就是SEO的结果，但是，SEO结果是靠软件作弊得来的。
 
