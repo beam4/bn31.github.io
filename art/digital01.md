@@ -2,6 +2,8 @@
 subtitle: 数字化背景下教会工作探讨
 hero_height: is-small
 layout: page
+show_sidebar: false
+menubar: preaching
 hero_image: "/img/sitev1.0/homeen.jpg"
 ---
 
