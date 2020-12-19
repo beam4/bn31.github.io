@@ -2,6 +2,7 @@
 title: Page with menubar
 subtitle: Demo page with a menubar
 layout: page
+menubar_toc: true
 show_sidebar: false
 menubar: preaching
 ---
