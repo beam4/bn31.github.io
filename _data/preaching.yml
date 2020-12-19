@@ -1,7 +1,7 @@
-- label: Digital Preaching
+- label: 教会工作在数字化背景下的探讨
   items:
-    - name: Page With Sidebar 
-      link: /page-1/
+    - name: 数字化背景下教会工作的探讨 
+      link: /art/digital01/
     - name: Page Without Sidebar
       link: /page-2/
     - name: Page With Menubar
