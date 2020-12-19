@@ -9,7 +9,7 @@ collections:
     title: Products
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600
+    image: https://via.placeholder.com/200x300
     show_sidebar: false
   uploads:
     title: Uploads
