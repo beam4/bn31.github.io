@@ -2,7 +2,7 @@
 subtitle: 
 hero_height: is-small
 layout: page
-menubar_toc: true
+toc: true
 show_sidebar: false
 menubar: preaching
 hero_image: "/img/sitev1.0/homeen.jpg"
