@@ -4,10 +4,10 @@
       link: /
       items:
         - name: Page With Sidebar 
-          link: /page-1/
+          link: /art/digital01/
         - name: Page Without Sidebar
-          link: /page-2/
+          link: /art/digital02/
         - name: Page With Menubar
-          link: /page-3/
+          link: /art/digital03/
         - name: Page With Tabs
           link: /page-4/
