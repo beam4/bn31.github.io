@@ -2,7 +2,6 @@
 subtitle: 
 hero_height: is-small
 layout: page
-show_sidebar: false
 menubar: digital
 hero_image: "/img/homeen.jpg"
 ---
