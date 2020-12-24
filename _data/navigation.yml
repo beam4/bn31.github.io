@@ -15,26 +15,3 @@
 #      link: /page-without-hero/
 #    - name: Landing Page With Callouts
 #      link: /landing/
-
-#- name: Home
-#  link: /index-en/ 
-#- name: 数据
-#  link: /tutorials/zh/tutorials/
-#- name: How to Achieve
-#  link: /howto/
-#- name: Contact Us
-#  link: /contact/
-#- name: Tutorials
-#  link: /tutorials/en
-#- name: Facebook Group
-#  link: https://www.facebook.com/groups/208571033569478
-#- name: english
-#  link: /en/
-#- name: Blog
-#  link: /blog/
-#- name: Demo
-#  link: /demo/sale/
-#- name: Manual
-#  link: /man/
-# - name: Docs (external)
-#   link: https://tacticlink.readthedocs.io/en/latest
