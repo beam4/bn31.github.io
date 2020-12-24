@@ -1,10 +1,8 @@
 ---
 title: 數字化教會服侍中的思考
 subtitle: 
-subtitle:
 layout: page
-hide_hero: true
-hero_image: "/img/indeximg8.jpg"
+hero_image: "/img/indeximg2.jpg"
 ---
 
 ### 传福音数字化的思考
