@@ -2,10 +2,9 @@
 subtitle: 
 hero_height: is-small
 layout: page
-toc: true
 show_sidebar: false
-menubar: preaching
-hero_image: "/img/sitev1.0/homeen.jpg"
+menubar: digital
+hero_image: "/img/homeen.jpg"
 ---
 ## 数字化背景下教会工作探讨
 
