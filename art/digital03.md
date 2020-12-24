@@ -6,7 +6,7 @@ menubar: digital
 hero_image: "/img/homeen.jpg"
 ---
 
-### 教会在网络实践中需要注意的问题
+## 教会在网络实践中需要注意的问题
 
 - 牧师要坚持自己的意见
 
