@@ -3,7 +3,7 @@
     - name: 回到上一级菜单
       link: /
       items:
-        - name: 数字化背景下教会工作探讨 
+        - name: 不是所有企业都接受数字化 
           link: /art/digital01/
         - name: 文宣等同于教会网络应用吗？
           link: /art/digital02/
