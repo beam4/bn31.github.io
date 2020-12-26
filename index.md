@@ -14,3 +14,4 @@ hero_image: "/img/indeximg2.jpg"
 
 ## 联系方式
 
+cheejon@yahoo.com
