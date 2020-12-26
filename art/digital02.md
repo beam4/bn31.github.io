@@ -1,5 +1,5 @@
 ---
-title: 教会数字化服侍中的思考
+title: 教会数字化探讨
 subtitle: 
 hero_height: is-small
 layout: page
