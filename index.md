@@ -1,5 +1,5 @@
 ---
-title: 教会數字化探讨
+title: 教会数字化探讨
 subtitle: 
 layout: page
 hero_image: "/img/indeximg2.jpg"
